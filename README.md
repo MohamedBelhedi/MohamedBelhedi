@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamedBelhedi
 - 👀 I’m interested in Web/Appdevelopment,Python and more
-- 🌱 I´m an Web and App and GameDeveloper
+- 🌱 I´m an Web and App and GameDeveloper My Skills are in JS,HTML,React and Angular
 - 💞️ I´m Searching for job
 - 📫 How to reach me mbelhedi@outlook.com
 
