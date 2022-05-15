@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohamedBelhedi
-- 👀 I’m interested in Javascript,Webdevelopment,Python and more
-- 🌱 I’m currently learning JS,React JS, Python,Webdevelopment,Fullstack Development
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Web/Appdevelopment,Python and more
+- 🌱 I´m an Web and App and GameDeveloper
+- 💞️ I´m Searching for job
 - 📫 How to reach me mbelhedi@outlook.com
 
 <!---
