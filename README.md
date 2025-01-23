@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @MohamedBelhedi
-- 👀 I’m interested in Web/Appdevelopment,DataScience,Python and more
-- 🌱 I´m an Web and App and GameDeveloper My Skills are in JS,HTML,React,Jupyter Notebook,DataSciene Tensorflow
-- 💞️ I´m Searching for job
-- 📫 How to reach me mbelhedi@outlook.com
+- 👋 Hi, I'm @MohamedBelhedi
+- 👀 I'm interested in Software Development, AI, Machine Learning, and Cybersecurity
+- 🌱 I'm a Software Developer and AI Expert with skills in:
+  - .NET
+  - Python
+  - C#
+  - TypeScript
+  - JavaScript
+  - Angular
+  - React
+  - Django
+  - Jupyter Notebook
+  - Google Colab
+  - Cybersecurity
+  - AI and LLM expertise
 
 <!---
 MohamedBelhedi/MohamedBelhedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
